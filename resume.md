@@ -14,12 +14,12 @@ I'm a strong collaborator with a background in teaching, SDK design, and buildin
 ## Core Skills
 
 * Languages: C#, C++, TypeScript, JavaScript, GLSL, Python
-* Web & Front-End: WebGL, Three.js, React (integration), browser dev tools
-* AEC & 3D: Revit API, AutoCAD/3ds Max APIs, procedural geometry, OpenGL/WebGL
+* Web & Front-End: WebGL, Three.js, React 
+* AEC & 3D: Revit API, 3ds Max APIs, procedural geometry, OpenGL/WebGL
 * Architecture: SDK design, data schemas, cloud-ready pipelines, plugin systems
 * Practices: Agile/Scrum, CI/CD, code reviews, unit & integration testing, test-driven development
 * Emerging Tech: LLM-integrated tools, AI-assisted workflows 
-* Software: 3ds Max, Unity, Revit, and more
+* Game Engines: Unity, Stingray
   
 ## Recent Professional Experience
 
@@ -27,10 +27,10 @@ I'm a strong collaborator with a background in teaching, SDK design, and buildin
 
 _05/2023 - present_
 
-Developing Ara 3D Studio a 3D procedural geometry creation tool inspired by Rhino/Grasshopper and Unity, written in C# and GLSL. 
+Developing Ara 3D Studio a 3D procedural geometry creation tool inspired by Rhino/Grasshopper and Unity, written in C#, OpenGL, and GLSL. 
 Designing BIM Open Schema data format, Revit exporter in C#, and a WebGL viewer in TypeScript. 
 Create several proof of concepts tools that interface with LLM APIs. 
-Developed a domain specific language, Plato, for generating geometry and mathematical algorithms and data structures. 
+Developed a domain specific language, Plato, for expressing geometry and mathematical algorithms and data structures. 
 
 ### Computer Science Instructor, Bishop's University 
 

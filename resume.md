@@ -23,7 +23,9 @@ I'm a strong collaborator with a background in teaching, SDK design, and buildin
   
 ## Recent Professional Experience
 
-### Founder and Lead Developer, Ara 3D Inc.
+**Founder and Lead Developer, Ara 3D Inc.**
+
+_05/2023 - present_
 
 Developing Ara 3D Studio a 3D procedural geometry creation tool inspired by Rhino/Grasshopper and Unity, written in C# and GLSL. 
 Designing BIM Open Schema data format, Revit exporter in C#, and a WebGL viewer in TypeScript. 
@@ -32,16 +34,24 @@ Developed a domain specific language, Plato, for generating geometry and mathema
 
 ### Computer Science Instructor, Bishop's University 
 
+_01/2023 - 05/2023_
+
 Taught CS321, Advanced Programming Techniques and the associated lab. Taught data structures, algorithms, functional programming, and software engineering using C#. 
 
 ### Head of R&D and Platform Architect, VIMaec. 
+
+_01/2019 - 01/2023_
 
 Responsible for hiring and building up a development team for creating real-time applications for AEC for desktop, augmented reality, mobile, and web. Lead the development of libraries, applications, and design data formats. Coded numerous features, libraries, and prototypes in C# on top of Unity, on our own rendering engine, and for the web in JavaScript and TypeScript. 
 
 ### Founder and Lead Developer, Ara 3D Inc 
 
-Developed a custom library and plugin in C# for generating efficient 3D models from Revit models that are appropriate for loading into game engines. Wrote a JavaScript WebGL viewer, and a custom shader based procedural instancing tool using GLSL. 
+_01/2018 - 01/2019_
+
+Developed a custom library and plugin in C# for generating efficient 3D models from Revit models that are appropriate for loading into game engines. Wrote a JavaScript WebGL viewer, and a custom shader based procedural instancing tool using GLSL. Did custo
 
 ### Principal Engineer and other Roles, Autodesk 
+
+_09/2008 - 12/2017_
 
 Worked as a software developer, technical writer, SDK UX designer, and product owner. Developed code using C++, C#, and Python. Developed numerous features for 3ds Max, and sample plug-ins and scripts for different products in M&E.

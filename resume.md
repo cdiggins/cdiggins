@@ -2,7 +2,9 @@
 
 ## Principal Software Engineer | AEC & 3D Systems
 
-### Montreal, Canada
+> Montreal, Canada, H1N 3H8<br>
+> cdiggins@gmail.com<br>
+> 438-828-7208<br>
 
 ## Professional Summary
 
